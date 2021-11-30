@@ -2,7 +2,7 @@
 
 - 🔭 hoje trabalho com Front-end QA
 
-- 🌱estudando de typescript
+-🌱Estudando typescript
 
 <div>
   <a href="https://github.com/Eliabesilva317">
