@@ -24,6 +24,6 @@
   <a href="https://t.me/eliabesilva317"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     
     
-    ! [Animação de cobra] (https://github.com/Eliabesilva317/Eliabesilva317/blod/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/Eliabesilva317/Eliabesilva317/blob/output/github-contribution-grid-snake.svg)
     
-    </div>
+  </div>
