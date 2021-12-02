@@ -2,7 +2,7 @@
 
 - 🔭 hoje trabalho com Front-end QA
 - 🌱Estudando typescript
-- 😎19 Anos...  ^_~
+- 😎19 Anos...  ^_^
 
 <div>
   <a href="https://github.com/Eliabesilva317">
