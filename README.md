@@ -1,6 +1,7 @@
 ## olá!👋 sou o Eliabe silva 317.
 
 - 🔭 hoje trabalho com Front-end QA
+- 😎19 Anos
 
 <div>
   <a href="https://github.com/Eliabesilva317">
