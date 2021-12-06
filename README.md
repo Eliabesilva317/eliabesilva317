@@ -1,4 +1,4 @@
-## olá!👋 sou o Eliabe silva 317.
+## olá!👋 sou o Eliabe silva 
 
 - 🔭 hoje trabalho com Front-end QA
 - 🌱Estudando typescript
