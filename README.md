@@ -1,8 +1,8 @@
-## olá!👋 sou o Eliabe silva 
+## olá!👋 sou o helyab Cruz... 
 
-- 🔭 hoje trabalho com Front-end QA
-- 🌱Estudando typescript
-- 😎19 Anos...  ^_^
+- 🔭 Hoje trabalho Analista de sistemas Swift 
+- 👨‍💻Sou Front-end Jr
+- 19 Anos...  ^_^
 
 <div>
   <a href="https://github.com/Eliabesilva317">
