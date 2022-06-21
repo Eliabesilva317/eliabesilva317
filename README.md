@@ -1,6 +1,6 @@
 ## olá!👋 sou o helyab Cruz... 
 
-- 🔭 Hoje trabalho Analista de sistemas Swift 
+- 🔭 Hoje trabalho como Analista de sistemas Swift 
 - 👨‍💻Sou Front-end Jr
 - 19 Anos...  ^_^
 
