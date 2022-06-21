@@ -1,7 +1,8 @@
 ## olá!👋 sou o helyab Cruz... 
 
 - 🔭 Hoje trabalho como Analista de sistemas software 
-- 👨‍💻Sou Front-end Jr
+- 👨‍💻 Front-end Jr
+- 🏫 Ensino médio completo
 - 19 Anos...  ^_^
 
 <div>
