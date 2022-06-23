@@ -1,5 +1,5 @@
-## olá!👋 sou o helyab Cruz... 
-
+## olá!👋 sou o helyab Cruz  
+- Gosto muito de programação 
 - 🔭 Hoje trabalho como Analista de sistemas software 
 - 👨‍💻 Front-end Jr
 - 🏫 Ensino médio completo
