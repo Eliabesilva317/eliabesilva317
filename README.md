@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como Analista de sistemas software 
 - 👨‍💻 Front-end Jr
 - 🏫 Ensino médio completo
+- Cursei na RocketSeat OmniStack - 2021
 - 19 Anos...  ^_^
 
 <div>
