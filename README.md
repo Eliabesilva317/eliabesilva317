@@ -1,6 +1,6 @@
 ## olá!👋 sou o helyab Cruz  
-- Gosto muito de programação 
-- 🔭 Hoje trabalho como Analista de sistemas software 
+- Gosto muito de programação e tecnologias
+- 🔭 Hoje trabalho como Analista de desenvolvedor mobile React Native Junior 
 - 👨‍💻 Front-end Jr
 - 🏫 Ensino médio completo
 - Cursei na RocketSeat OmniStack - 2021
