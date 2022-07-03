@@ -3,16 +3,19 @@
 - 💼 Hoje trabalho como Analista de desenvolvimento web mobile React Native Junior 
 - 👨‍💻 Front-end 
 - 📚 Cursei na RocketSeat OmniStack - 2021
-- 🖥️ Estudando React mobile, Typescript, Javascript, CSS e HTML
-
+- 🖥️ Estudando React Native mobile, Typescript, Javascript, CSS e HTML
+##
+  #### 👾 Linguagens mais usadas em meus repositórios <br>
+  <a href="https://github.com/Eliabesilva317">
 
 <div>
   <a href="https://github.com/Eliabesilva317">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliabesilva317&show_icons=trur&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliabesilva317&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
+ 
+ 🧠 Tenho conhecimento em:<br>
+ <div style="display: inline_block" align="left">  
    <img align="center" alt="Eliabe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eliabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eliabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
