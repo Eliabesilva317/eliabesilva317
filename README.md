@@ -3,7 +3,7 @@
 - 💼 Hoje trabalho como Analista de desenvolvimento web mobile React Native Junior 
 - 👨‍💻 Front-end 
 - 📚 Cursei na RocketSeat OmniStack - 2021
-- 🖥️ Estudando React Native mobile, Typescript, Javascript, CSS e HTML
+- 🖥️ Estudando React Native, Typescript, Javascript, CSS e HTML
 ##
   #### 👾 Linguagens mais usadas em meus repositórios <br>
   <a href="https://github.com/Eliabesilva317">
