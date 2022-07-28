@@ -1,6 +1,6 @@
 ## Olá Bem vindo ao meu Perfil!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">  
 - 👨‍💻 Gosto muito de programação
-- 💼 Hoje trabalho como Analista de desenvolvimento React Native web mobile ios
+- 💼 Hoje trabalho como Analista de desenvolvimento React Native web mobile 
 - 👨‍💻 Front-end 
 - 📚 Cursei na RocketSeat OmniStack - 2021
 - 🖥️ Estudando React Native, Typescript, Javascript, CSS e HTML
