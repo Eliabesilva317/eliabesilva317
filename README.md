@@ -1,9 +1,8 @@
 ## Olá Bem vindo ao meu Perfil!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">  
-- 👨‍💻 Gosto muito de programação
-- 💼 Hoje trabalho como Analista de desenvolvimento React Native web mobile 
+- 👨‍💻 Trabalha na ária da tecnologia para mim e algo gostoso...
+- 💼 Hoje trabalho com desenvolvimento web mobile React Native
 - 👨‍💻 Front-end 
-- 📚 Cursei na RocketSeat OmniStack - 2021
-- 🖥️ Estudando React Native, Typescript, Javascript, CSS e HTML
+- 📚 Participei de alguns cursos da RocketSeat OmniStack Ano-2021
 ##
   #### 👾 Linguagens mais usadas em meus repositórios <br>
   <a href="https://github.com/Eliabesilva317">
