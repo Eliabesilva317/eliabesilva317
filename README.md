@@ -3,8 +3,10 @@
 - 👨‍💻  Desenvolverdo Front-end .
 - 📚 Participei de aulas cursos da RocketSeat OmniStack Ano-2021 gosto de aprende novas tecnologias.
 - 📚 Estudando HTML typescript Java script ...
-##
-  #### 👾 Linguagens mais usadas em meus repositórios <br>
+- [![Followers](https://img.shields.io/github/followers/Eliabesilva317.svg?style=social&label=Follow)](https://github.com/Eliabesilva317)
+<img src="./assets/cat.gif" width="50" height="50" /> 
+
+   👾 Linguagens mais usadas em meus repositórios <br>
   <a href="https://github.com/Eliabesilva317">
 
 <div>
