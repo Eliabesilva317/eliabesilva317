@@ -1,7 +1,7 @@
 ## Olá Bem vindo ao meu Perfil!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">  
 - 💼 Hoje trabalho com desenvolvimento web mobile React Native .
 - 👨‍💻  Desenvolverdo Front-end .
-- 📚 Participei de aulas cursos da RocketSeat OmniStack Ano-2021 gosto de novas tecnologias .
+- 📚 Participei de aulas cursos da RocketSeat OmniStack Ano-2021 gosto de aprende novas tecnologias.
 - 📚 Estudando HTML typescript Java script ...
 ##
   #### 👾 Linguagens mais usadas em meus repositórios <br>
