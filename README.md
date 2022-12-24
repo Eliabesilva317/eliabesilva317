@@ -27,7 +27,7 @@
   
   ##
   ## 📈 Gráfico de atividades do GitHub:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eliabesilva317&hide_border=true&theme=redical)
+
   
   #### 💬 Me chame para bater um papo :)<br>
   <div>
